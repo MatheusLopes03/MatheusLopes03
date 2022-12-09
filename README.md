@@ -1,4 +1,5 @@
-### Esudante Front-end! 🤙
+### Estudante Front-end! 🤙
+##
 
 <div align="center">
   <a href="https://github.com/MatheusLopes03">
@@ -8,6 +9,7 @@
 
   ##
   ### Aprendendo
+  
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Theus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
