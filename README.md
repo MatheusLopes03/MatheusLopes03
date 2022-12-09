@@ -1,4 +1,4 @@
-### Estudante Front-end! 🤙
+### Estudante Front-end!
 ##
 
 <div align="center">
