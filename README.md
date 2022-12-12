@@ -1,6 +1,6 @@
 # Matheus Lopes
 - Tenho 19 anos
-- Sou de Valença/RJ
+- Moro em Valença/RJ
 - Iniciando no mundo da programação
 - ☕ Cafézin? 
 
