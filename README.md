@@ -2,7 +2,6 @@
 - Tenho 19 anos
 - Moro em Valença/RJ
 - Iniciando no mundo da programação
-- ☕ Cafézin? 
 
 ##
 
