@@ -1,7 +1,8 @@
 # Matheus Lopes
 - Tenho 19 anos
 - Moro em Valença/RJ
-- Iniciando no mundo da programação
+- Aluno ADS - UNIFAA
+- Estagiario na area de TI
 
 ##
 
