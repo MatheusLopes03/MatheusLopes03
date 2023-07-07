@@ -2,7 +2,6 @@
 - Tenho 19 anos
 - Moro em Valença/RJ
 - Aluno ADS - UNIFAA
-- Estagiario na area de TI
 
 ##
 
